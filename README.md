@@ -25,6 +25,11 @@ Smoother interaction with same features and fixed minor bugs. Apologies for the 
 Credits :-
 Me ofc hehe, but seriously, sorry for not updating anything because im busy in irl because of studies etc. #OPENSOURCEFOREVER!! Oh and, still in progress cuz dev lazy :p 
 
+Tools Used :-
+-> Refiner = Visual studios AI
+-> Source finder/error finder = Gemini.
+-> Rest all typer and base maker = me (Dumbass-sudo)
+
 Future plans :-
 Making a MacOS version of this bot along with windows version of this bot. And also having a separate app to run it rather than on the terminal (currently in development). So, im doing this alone, with AI assistance to help fix and refine the codes. Yes, i refined Aplx AI™ 3 times before uploading it, tho its different that it broke like, 5-6 times before refining, And theres no separate API so expect less power from this bot.
 -Your Dumbass
