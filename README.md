@@ -3,6 +3,8 @@ So, This is a massive project made by me, "Dumbass-sudo".
 
 This model is currently only for linux, Not available for windows, yet. Modifications will be made.
 
+Happy to anounce that Jarvis (the ironman assistant) has been renamed officially to 'Aplx AI™' , with most features same as my previous "Jarvis" project but Aplx AI™ has smoother interactive text after a month of developing!
+
 HOW TO USE?
 
 so. this is currently only for Ubuntu systems, But can be modified to any system the user likes.
@@ -22,3 +24,8 @@ Smoother interaction with same features and fixed minor bugs. Apologies for the 
 
 Credits :-
 Me ofc hehe, but seriously, sorry for not updating anything because im busy in irl because of studies etc. #OPENSOURCEFOREVER!! Oh and, still in progress cuz dev lazy :p 
+
+Future plans :-
+Making a MacOS version of this bot along with windows version of this bot. And also having a separate app to run it rather than on the terminal (currently in development). So, im doing this alone, with AI assistance to help fix and refine the codes. Yes, i refined Aplx AI™ 3 times before uploading it, tho its different that it broke like, 5-6 times before refining, And theres no separate API so expect less power from this bot.
+-Your Dumbass
+-Dumbass-sudo
