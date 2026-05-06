@@ -125,7 +125,7 @@ while True:
             speak("Wsg loser, What you want now?.") 
         elif "weather" in query:
             speak("Opening weather forecast...")
-            open_default_browser("https://city.imd.gov.in/citywx/responsive/?id=43295")
+            open_default_browser("Put your city weather here")
         elif "money eater" in query or "pocket filled fatty" in query or "a dumbass" in query:
             speak("Opening A (not so) great womans wiki...")
             open_default_browser("https://en.wikipedia.org/wiki/Nirmala_Sitharaman")
