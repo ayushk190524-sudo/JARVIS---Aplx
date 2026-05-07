@@ -120,19 +120,61 @@ while True:
             speak("- 'weather' to open the weather forecast")
             speak("- 'money eater' or 'pocket filled fatty' or 'a dumbass' to open their respective websites")
             speak("- 'github' or 'code' or 'my app' to open GitHub")
-            speak("- I can also enable study mode automatically on week days from 4:10 PM to 6:10 PM as per due to tution")
+            speak("- 'discord' or 'dc' or 'dscrd' to open Discord")
         elif "sup dumbass" in query or "sup idiot" in query:
             speak("Wsg loser, What you want now?.") 
         elif "weather" in query:
             speak("Opening weather forecast...")
-            open_default_browser("Put your city weather here")
+            open_default_browser("https://city.imd.gov.in/citywx/responsive/?id=43295")
         elif "money eater" in query or "pocket filled fatty" in query or "a dumbass" in query:
             speak("Opening A (not so) great womans wiki...")
             open_default_browser("https://en.wikipedia.org/wiki/Nirmala_Sitharaman")
+        elif "discord" in query or "dc" in query or "dscrd" in query:
+            speak("Opening Discord...")
+            open_default_browser("https://discord.com/channels/@me")
+        elif "settings" in query or "control panel" in query:
+            try:
+                settings_opened = False
+                
+                # Linux desktop environments
+                linux_settings = [
+                    "cosmic-settings",      # Pop!_OS Cosmic
+                    "gnome-control-center", # GNOME
+                    "kde-open",             # KDE Plasma
+                    "cinnamon-settings",    # Cinnamon
+                    "xfce4-settings-manager", # XFCE
+                    "dconf-editor",         # Generic alternative
+                ]
+                
+                # Try Linux settings apps
+                for settings_app in linux_settings:
+                    if shutil.which(settings_app):
+                        subprocess.Popen([settings_app], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, start_new_session=True)
+                        settings_opened = True
+                        break
+                
+                # macOS
+                if not settings_opened and sys.platform == "darwin":
+                    subprocess.Popen(["open", "-a", "System Preferences"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                    settings_opened = True
+                
+                # Windows
+                if not settings_opened and sys.platform == "win32":
+                    try:
+                        subprocess.Popen("ms-settings:", stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                    except:
+                        subprocess.Popen("rundll32.exe shell32.dll,Control_RunDLL", stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                    settings_opened = True
+                
+                if settings_opened:
+                    speak("Opening Settings...")
+                else:
+                    speak("Settings application not found on this system.")
+            except Exception as err:
+                speak(f"An error occurred opening settings: {err}")
     except Exception as err:
         speak(f"An error occurred handling that command: {err}")
         continue
-    
 
 
 
