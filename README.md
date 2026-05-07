@@ -17,7 +17,11 @@ how to use :- First, copy paste on visual studios or any coding app you use.
 
 CURRENT FEATURES :-
 
--> opens youtube, browser, file explorer, roblox, amazon (can change to .com from .in), the person who takes tax from us indian citizens, (OPTIONAL TO REMOVE) opens mission jeet website cuz im a student, (OPTIONAL TO REMOVE) opens the indian government website, Study Time feature removed becuase of refining done and it was taking unwanted place, Now settings can be opened by it for any OS including WindowsOS and MacOS!!!!! And it can open discord now. Just two simple things added.
+-> opens youtube, browser, file explorer, roblox, amazon (can change to .com from .in), the person who takes tax from us indian citizens, (OPTIONAL TO REMOVE) opens mission jeet website cuz im a student, (OPTIONAL TO REMOVE) opens the indian government website, Study Time feature removed becuase of refining done and it was taking unwanted place.
+
+RECENT UPDATES MADE:-
+
+Now settings can be opened by it for any OS including WindowsOS and MacOS!!!!! And it can open discord now. Just two simple things added.
 
 UPDATES :-
 Smoother interaction with same features and fixed minor bugs. Apologies for the delay in getting the function.
