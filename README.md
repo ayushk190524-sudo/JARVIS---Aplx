@@ -1,4 +1,9 @@
 # Aplx-
+
+**EMERGECNY TAKE DOWN!!**
+
+I have sat through and seen all possible ways to keep the users from having true Aplx AI™, due to security leak reasons and possible faking of my Aplx AI™ which would be made, ive temporarily taken it down. BE BACK SOON!
+
 So, This is a massive project made by me, **"Dumbass-sudo"**. 
 
 This model is currently only for linux, Not available for windows, yet. Modifications will be made.
