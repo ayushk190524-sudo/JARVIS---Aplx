@@ -2,7 +2,7 @@
 
 **EMERGECNY TAKE DOWN!!**
 
-I have sat through and seen all possible ways to keep the users from having true Aplx AI™, due to security leak reasons and possible faking of my Aplx AI™ which would be made, ive temporarily taken it down. BE BACK SOON! (*When will it be up again?* **Mostly during the afternoon/evening time because ill be patching the leaks.**)
+I have sat through and seen all possible ways to keep the users to have true Aplx AI™, due to security leak reasons and possible faking of my Aplx AI™ which would be made, ive temporarily taken it down. BE BACK SOON! (*When will it be up again?* **Mostly during the afternoon/evening time because ill be patching the leaks.**)
 
 So, This is a massive project made by me, **"Dumbass-sudo"**. 
 
