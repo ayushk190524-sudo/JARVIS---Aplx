@@ -1,8 +1,5 @@
 # Aplx-
 
-**EMERGECNY TAKE DOWN!!**
-
-I have sat through and seen all possible ways to keep the users to have true Aplx AI™, due to security leak reasons and possible faking of my Aplx AI™ which would be made, ive temporarily taken it down. BE BACK SOON! (*When will it be up again?* **Mostly during the afternoon/evening time because ill be patching the leaks.**)
 
 So, This is a massive project made by me, **"Dumbass-sudo"**. 
 
@@ -29,7 +26,7 @@ how to use :- First, copy paste on visual studios or any coding app you use.
 
 **RECENT UPDATES MADE**:-
 
-Now settings can be opened by it for any OS including WindowsOS and MacOS!!!!! And it can open discord now. Just two simple things added.
+Now settings can be opened by it for any OS including WindowsOS and MacOS!!!!! And it can open discord now. Just two simple things added. **NEW SECURITY FEATURE!!**, I had noticed the Sha256 was missing (key security) and could be copied easily without it, the zip file is the only official release!! *(Sha256 code :-d811f70af482aced1adeedcc5bc0362206c6222713a3940c393446fb0fe7083a)*
 
 **MAJOR UX UPDATES** :-
 Smoother interaction with same features and fixed minor bugs. Apologies for the delay in getting the function.
