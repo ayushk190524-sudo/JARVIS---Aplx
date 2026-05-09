@@ -18,7 +18,7 @@ how to use :- First, copy paste on visual studios or any coding app you use.
 
 --> To change it to the broswer you like, simply just change the "FireFox" to any browser you use, Just so you know, it might be case sensitive so please type the browser name properly.
 
---> Run via [!terminal]. Must have **python** installed, if not installed, type "sudo apt install python3" (tested because i tried it on my VM), after installing, do "cd (placename where you kept it, most preferred desktop because its easier to navigate from there, fully optional)". After that, simply type this "python3 jarvis.py (or anything you kept the name as, and must have .py , to let the system know you are opening the python file)"
+--> Run via [!terminal]. Must have **python** installed, if not installed, type "sudo apt install python3" (tested because i tried it on my VM), after installing, do "cd (placename where you kept it, most preferred desktop because its easier to navigate from there, fully optional)". After that, simply type this "python3 aplx.py (or anything you kept the name as, and must have .py , to let the system know you are opening the python file)"
 
 **CURRENT FEATURES** :-
 
