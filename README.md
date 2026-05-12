@@ -8,6 +8,8 @@ This model is currently only for linux, Not available for windows, yet. Modifica
 
 Happy to anounce that Jarvis (the ironman assistant) has been renamed officially to 'Aplx AI™' , with most features same as my previous "Jarvis" project but Aplx AI™ has smoother interactive text after a month of developing!
 
+_________________________________________________________________________________________________________________________
+
 **HOW TO USE?**
 
 so. this is currently only for Ubuntu systems, But can be modified to any system the user likes.
@@ -21,19 +23,29 @@ how to use :- First, copy paste on visual studios or any coding app you use.
 
 --> Run via [!terminal]. Must have **python** installed, if not installed, type "sudo apt install python3" (tested because i tried it on my VM), after installing, do "cd (placename where you kept it, most preferred desktop because its easier to navigate from there, fully optional)". After that, simply type this "python3 aplx.py (or anything you kept the name as, and must have .py , to let the system know you are opening the python file)"
 
+_________________________________________________________________________________________________________________________
+
 **CURRENT FEATURES** :-
 
 -> opens youtube, browser, file explorer, roblox, amazon (can change to .com from .in), the person who takes tax from us indian citizens, (*OPTIONAL TO REMOVE*) opens mission jeet website cuz im a student, (*OPTIONAL TO REMOVE*) opens the indian government website, Study Time feature removed becuase of refining done and it was taking unwanted place.
+
+_________________________________________________________________________________________________________________________
 
 **RECENT UPDATES MADE**:-
 
 Now settings can be opened by it for any OS including WindowsOS and MacOS!!!!! And it can open discord now. Just two simple things added. **NEW SECURITY FEATURE!!**, I had noticed the Sha256 was missing (key security) and could be copied easily without it, the zip file is the only official release!! *(Sha256 code :-d811f70af482aced1adeedcc5bc0362206c6222713a3940c393446fb0fe7083a)*
 
+_________________________________________________________________________________________________________________________
+
 **MAJOR UX UPDATES** :-
 Smoother interaction with same features and fixed minor bugs. Apologies for the delay in getting the function.
 
+_________________________________________________________________________________________________________________________
+
 **Credits** :-
 Me ofc hehe, but seriously, sorry for not updating anything because im busy in irl because of studies etc. #OPENSOURCEFOREVER!! Oh and, still in progress cuz dev lazy :p 
+
+_________________________________________________________________________________________________________________________
 
 **Tools Used** :-
 -> Refiner = Visual studios AI
@@ -41,6 +53,8 @@ Me ofc hehe, but seriously, sorry for not updating anything because im busy in i
 -> Source finder/error finder = Gemini.
 
 -> Rest all typer and base maker = me (Dumbass-sudo)
+
+_________________________________________________________________________________________________________________________
 
 **Future plans** :-
 
