@@ -1,5 +1,6 @@
 # Aplx-
 
+**STAY TUNED, MASSIVE UPDATE SOON.**
 
 So, This is a massive project made by me, **"Dumbass-sudo"**. 
 
