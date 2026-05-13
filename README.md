@@ -1,5 +1,7 @@
 # Aplx-
 
+**(Hey uhh, Dumbass-sudo here. theres this stewpid ahh second board exam of cbse which i should write, so. expect the update after 9-10 days 🥀, apologies for the big delay on the UI overhaul update.)**
+
 **STAY TUNED, MASSIVE UPDATE SOON.**
 
 So, This is a massive project made by me, **"Dumbass-sudo"**. 
