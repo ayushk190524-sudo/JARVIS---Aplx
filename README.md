@@ -1,8 +1,11 @@
 # Aplx-
+_________________________________________________________________________________________________________________________________
 
-**(Hey uhh, Dumbass-sudo here. theres this stewpid ahh second board exam of cbse which i should write, so. expect the update after 9-10 days 🥀, apologies for the big delay on the UI overhaul update.)**
+**PREVIEW**
 
-**STAY TUNED, MASSIVE UPDATE SOON.**
+https://github.com/ayushk190524-sudo/JARVIS---Aplx/blob/main/Screenshot_2026-05-13_13-56-24.png?raw=true
+
+_________________________________________________________________________________________________________________________________
 
 So, This is a massive project made by me, **"Dumbass-sudo"**. 
 
