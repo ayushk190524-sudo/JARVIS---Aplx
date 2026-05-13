@@ -32,18 +32,20 @@ ________________________________________________________________________________
 
 **CURRENT FEATURES** :-
 
--> opens youtube, browser, file explorer, roblox, amazon (can change to .com from .in), the person who takes tax from us indian citizens, (*OPTIONAL TO REMOVE*) opens mission jeet website cuz im a student, (*OPTIONAL TO REMOVE*) opens the indian government website, Study Time feature removed becuase of refining done and it was taking unwanted place.
+-> opens youtube, browser, file explorer, roblox, amazon (can change to .com from .in), the person who takes tax from us indian citizens, (*OPTIONAL TO REMOVE*) opens mission jeet website cuz im a student, (*OPTIONAL TO REMOVE*) opens the indian government website, Study Time feature removed becuase of refining done and it was taking unwanted place. Better user interaction, makes it feel like a actual bot rather than making it feel like a bland interaction.
 
 _________________________________________________________________________________________________________________________
 
 **RECENT UPDATES MADE**:-
 
-Now settings can be opened by it for any OS including WindowsOS and MacOS!!!!! And it can open discord now. Just two simple things added. **NEW SECURITY FEATURE!!**, I had noticed the Sha256 was missing (key security) and could be copied easily without it, the zip file is the only official release!! *(Sha256 code :-d811f70af482aced1adeedcc5bc0362206c6222713a3940c393446fb0fe7083a)*
+NOW APLX IS FULLY OVERHAULED AND UX AND UI HAS BEEN CUSTOM MADE WITH BETTER USER EXPERIENCE WITH ACTUAL INTERACTIVE PRESPECTIVE FOR BOTH USER AND BOT!  *(always check the sha256 code, confirm it by asking the bot. Sha256 code :-d811f70af482aced1adeedcc5bc0362206c6222713a3940c393446fb0fe7083a)*
+
+--> MASSIVE **GUI OVERHAUL MADE WITH BETTER THAN EVER EXPERIENCE!!**
 
 _________________________________________________________________________________________________________________________
 
 **MAJOR UX UPDATES** :-
-Smoother interaction with same features and fixed minor bugs. Apologies for the delay in getting the function.
+ADDED THE OVERALL MASSIVE BANNER WITH SMOOTHER INTERACTIONS MADE AND ADDED FEW MORE FUNCTIONS!!!
 
 _________________________________________________________________________________________________________________________
 
