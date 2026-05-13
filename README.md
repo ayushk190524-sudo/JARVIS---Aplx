@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 **PREVIEW**
 
-https://github.com/ayushk190524-sudo/JARVIS---Aplx/blob/main/Screenshot_2026-05-13_13-56-24.png?raw=true
+![image alt](https://github.com/ayushk190524-sudo/JARVIS---Aplx/blob/main/Screenshot_2026-05-13_13-56-24.png?raw=true)
 
 _________________________________________________________________________________________________________________________________
 
