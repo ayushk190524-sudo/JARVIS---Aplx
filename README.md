@@ -65,7 +65,7 @@ ________________________________________________________________________________
 
 **Future plans** :-
 
-Making a MacOS version of this bot along with windows version of this bot. And also having a separate app to run it rather than on the terminal (currently in development). So, im doing this alone, with AI assistance to help fix and refine the codes. Yes, i refined Aplx AI™ 3 times before uploading it, tho its different that it broke like, 5-6 times before refining, And theres no separate API so expect less power from this bot. Also taking update suggestions from the community from my discord, to join, its in my profile socials. Do make sure to join and give suggestions!
+Making a MacOS version of this bot along with windows version of this bot. And also having a separate app to run it rather than on the terminal (currently in development). So, im doing this alone, with AI assistance to help fix and refine the codes. Yes, i refined Aplx AI™ 3 times before uploading it, tho its different that it broke like, 5-6 times before refining, And theres no separate API so expect less power from this bot. Also taking update suggestions from the community from my discord, to join, its in my profile socials. Do make sure to join and give suggestions! plus ill be busy since im turning 15 in few months and starting collage soon, so yeah!
 
 -Your Dumbass
 
